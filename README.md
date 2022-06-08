@@ -1,2 +1,2 @@
 # LeetCode-Python
- solving leetcode problems in leisure time
+ Solving leetcode problems in leisure time
