@@ -16,4 +16,4 @@ class Solution:
 if __name__ == "__main__":
     s = Solution()
     print(s.isSubsequence("abc","ahbgdc"))
-    pritn(s.isSubsequence("axc","ahbgdc"))
+    print(s.isSubsequence("axc","ahbgdc"))
