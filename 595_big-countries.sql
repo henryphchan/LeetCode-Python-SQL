@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/big-countries/
+/* https://leetcode.com/problems/big-countries/ */
 
 select name, population, area
 from world
